@@ -6,3 +6,10 @@ export interface Article {
     submitted_by: number;
     created_at: Date;
 }
+
+export interface User {
+    id: number;
+    email: string;
+    password_hash: string;
+    created_at: Date;
+}

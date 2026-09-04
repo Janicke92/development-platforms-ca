@@ -128,35 +128,32 @@ JWT is used for authentication. After a successful login, the returned token can
 
 ## AI Log
 
-**Tool used:** ChatGPT
-
-**Date:** 1 September 2026
-
-**Purpose:** Making a checklist of the brief and grading criteria.
-
+**Tool used:** ChatGPT  
+**Date:** 1 September 2026  
+**Purpose:** Making a checklist of the brief and grading criteria.  
 **Outcome:** A visual representation of how the organizing of a project in my mind looks.
 
-**Tool used:** ChatGPT
-**Date:** 1 September 2026
-**Purpose:** Double checking that my tables in MySQL where correct.
+**Tool used:** ChatGPT  
+**Date:** 1 September 2026  
+**Purpose:** Double checking that my tables in MySQL where correct.  
 **Outcome:** Reassurance that they were correct
 
-**Tool used:** ChatGPT
-**Date:** 2 September 2026
-**Purpose:** Debugging error with typescript. “Property 'user' does not exist on type 'Request'” Which then reminded me that we’d learned this in chapter 3.3.
+**Tool used:** ChatGPT  
+**Date:** 2 September 2026  
+**Purpose:** Debugging error with typescript. “Property 'user' does not exist on type 'Request'” Which then reminded me that we’d learned this in chapter 3.3.  
 **Outcome:** Help to remember where to find the solution to the problem.
 
-**Tool used:** ChatGPT
-**Date:** 3 September 2026
-**Purpose:** Debugging error with Typescript. Node setting for moduleResolution was no longer supported.
+**Tool used:** ChatGPT  
+**Date:** 3 September 2026  
+**Purpose:** Debugging error with Typescript. Node setting for moduleResolution was no longer supported.  
 **Outcome:** Changed moduleResolution from “node” to “bundler”.
 
-**Tool used:** ChatGPT
-**Date:** 4 September 2026
-**Purpose:** Help make the README.md look “pretty”.
+**Tool used:** ChatGPT  
+**Date:** 4 September 2026  
+**Purpose:** Help make the README.md look “pretty”.  
 **Outcome:** I learned to format code using markdown (and I also realized that I knew a lot of it from before).
 
-**Tool used:** ChatGPT
-**Date:** 4 September 2026
-**Purpose:** Help removing `node_modules` from github repository.
+**Tool used:** ChatGPT  
+**Date:** 4 September 2026  
+**Purpose:** Help removing `node_modules` from github repository.  
 **Outcome:** Learned how to stop tracking folder using `git rm -r --cached`

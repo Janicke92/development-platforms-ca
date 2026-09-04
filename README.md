@@ -152,3 +152,8 @@ JWT is used for authentication. After a successful login, the returned token can
 **Date:** 4 September 2026
 **Purpose:** Help make the README.md look “pretty”.
 **Outcome:** I learned to format code using markdown (and I also realized that I knew a lot of it from before).
+
+**Tool used:** ChatGPT
+**Date:** 4 September 2026
+**Purpose:** Help removing `node_modules` from github repository.
+**Outcome:** Learned how to stop tracking folder using `git rm -r --cached`

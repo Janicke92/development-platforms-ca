@@ -129,8 +129,11 @@ JWT is used for authentication. After a successful login, the returned token can
 ## AI Log
 
 **Tool used:** ChatGPT
+
 **Date:** 1 September 2026
+
 **Purpose:** Making a checklist of the brief and grading criteria.
+
 **Outcome:** A visual representation of how the organizing of a project in my mind looks.
 
 **Tool used:** ChatGPT
